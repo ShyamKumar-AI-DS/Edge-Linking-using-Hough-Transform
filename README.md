@@ -65,30 +65,21 @@ plt.imshow(edges1,'gray')
 ## Output
 
 ### Input image and grayscale image:
-<br>
-<br>
 
-![](dip1.PNG)
-<br>
-<br>
+
+![](dip1.png)
+
 
 ### Canny Edge detector output:
-<br>
-<br>
 
-![](dip2.PNG)
-<br>
-<br>
+![](dip2.png)
 
 
 ### Display the result of Hough transform:
-<br>
-<br>
 
-![](dip3.PNG)
 
-<br>
-<br>
+![](dip3.png)
+
 
 
 
